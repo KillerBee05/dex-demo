@@ -1,0 +1,7 @@
+{
+  "name": "dex-demo",
+  "version": "1.0.0",
+  "description": "A tiny tip calculator, used to demonstrate Dex.",
+  "scripts": { "test": "node tip.test.js" },
+  "license": "MIT"
+}
